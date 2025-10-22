@@ -1,0 +1,7 @@
+partname,partID,parthier,partvol,parttype,partcogx,partcogy,partcogz,partBBxmin,partBBxmax,partBBymin,partBBymax,partBBzmin,partBBzmax,mov,rotsym
+Rahmen,p1,0,2787000,0,-38,41,79,66,25,5,-355,91,279,09,18,17,141,16,0,1,51,0,0
+Vorderreifen,p2,0,1595000,Reifen,249,08,79,66,25,5,152,59,345,59,39,66,119,67,-71,122,1,1
+Hinterreifen,p3,0,1595000,Reifen,-325,91,79,66,25,5,-422,41,-229,41,39,66,119,67,-71,122,1,1
+Vorderachse ,p4,0,86943,58,Schaft,249,08,79,66,25,5,234,08,264,08,18,17,141,16,10,5,40,5,1,1
+Hinterachse,p5,0,86943,58,Schaft,-325,91,79,66,25,5,-340,91,-310,91,18,17,141,16,10,5,40,5,1,1
+Schuh,p6,0,620000,0,-112,92,79,66,123,74,-158,41,61,59,29,67,129,67,51,261,0,0
